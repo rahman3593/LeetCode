@@ -1,0 +1,15 @@
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/bin/Debug/net6.0/LeetCode
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/bin/Debug/net6.0/LeetCode.deps.json
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/bin/Debug/net6.0/LeetCode.runtimeconfig.json
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/bin/Debug/net6.0/LeetCode.dll
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/bin/Debug/net6.0/LeetCode.pdb
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.csproj.AssemblyReference.cache
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.AssemblyInfoInputs.cache
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.AssemblyInfo.cs
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.csproj.CoreCompileInputs.cache
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.dll
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/refint/LeetCode.dll
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.pdb
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/LeetCode.genruntimeconfig.cache
+/Users/abdulrahman.a/repos/poc/DotNet/LeetCode/LeetCode/obj/Debug/net6.0/ref/LeetCode.dll
